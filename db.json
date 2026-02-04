@@ -50,9 +50,15 @@
       "userId": 1
     },
     {
-      "id": "85d54862-ea3f-40d3-a151-a212aba45f14",
-      "todo": "test",
-      "createdAt": "2026-02-04T14:07:55.378Z",
+      "id": "e101e39f-1198-4d2f-952e-af283797916a",
+      "todo": "Invalidate queries: learn to fly",
+      "createdAt": "2026-02-04T17:18:09.918Z",
+      "userId": 1
+    },
+    {
+      "id": "0feba1ba-c22b-47bf-9b5e-ca92b4574b03",
+      "todo": "reading book",
+      "createdAt": "2026-02-04T17:32:13.929Z",
       "userId": 1
     }
   ]

@@ -1,8 +1,8 @@
 import "./App.css";
-import { StandardFetch } from "@/standard-fetch";
+import { ReactQueryApproach } from "./react-query-approach";
 
 function App() {
-  return <StandardFetch />;
+  return <ReactQueryApproach />;
 }
 
 export default App;

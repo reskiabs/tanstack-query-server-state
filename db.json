@@ -1,0 +1,47 @@
+{
+  "user": {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "password",
+    "createdAt": "2024-06-08T10:15:20Z"
+  },
+  "todos": [
+    {
+      "id": "b322f10e-349e-41a0-90e0-8a1b12be55fa",
+      "todo": "Buy groceries for dinner",
+      "createdAt": "2024-06-08T10:15:20Z",
+      "userId": 1
+    },
+    {
+      "id": "ee2c4c2e-2de0-41b2-b3de-818e10204b30",
+      "todo": "Finish React project assignment",
+      "createdAt": "2024-06-08T11:20:35Z",
+      "userId": 1
+    },
+    {
+      "id": "d019e9ac-5e06-4840-badb-4a471a7f3b23",
+      "todo": "Call the bank about account inquiry",
+      "createdAt": "2024-06-08T13:05:10Z",
+      "userId": 1
+    },
+    {
+      "id": "e85318b3-7b94-4925-8cef-a41d926c2ac1",
+      "todo": "Schedule doctor appointment",
+      "createdAt": "2024-06-08T14:42:50Z",
+      "userId": 1
+    },
+    {
+      "id": "b9be8420-bc7c-4a6b-a88c-209afa7a4f45",
+      "todo": "Read 20 pages of a novel",
+      "createdAt": "2024-06-08T17:00:00Z",
+      "userId": 1
+    },
+    {
+      "id": "cbf22675-36a0-45dd-a3ef-5530811f0c9d",
+      "todo": "Buy a new car",
+      "createdAt": "2024-06-08T18:00:00Z",
+      "userId": 2
+    }
+  ]
+}
